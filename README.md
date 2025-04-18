@@ -53,6 +53,9 @@ npm start
 npm run dev
 ```
 
+![image](https://github.com/user-attachments/assets/f18980f7-7401-442b-aea6-5cbe0d108c9a)
+
+
 ### 图形界面导航
 
 1. **钱包选择**: 使用下拉菜单切换不同的钱包。
@@ -71,25 +74,6 @@ npm run dev
 npm run build
 ```
 
-这将在`dist`目录中为您的平台创建可执行文件。
-
-## 技术细节
-
-- 使用Electron框架构建图形界面
-- 使用ethers.js v5.7.2进行区块链交互
-- 与Taker API通信进行耕种操作
-- 支持常规和EIP-712消息签名
-
-## 许可证
-
-MIT许可证
-
 ## 免责声明
 
 本机器人仅供教育目的使用。使用风险自负。
-
----
-
-*由Airdrop Insiders开发*
-
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/airdropinsiders/Sowing-Taker-Auto-Bot/issues) if you want to contribute.
